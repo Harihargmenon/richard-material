@@ -5,7 +5,7 @@
 		name: 'svelte',
 		speed: 'blazing',
 		version: 3,
-		website: 'https://svelte.dev'
+		website: 'https://barabariproject.org'
 	};
 </script>
 
