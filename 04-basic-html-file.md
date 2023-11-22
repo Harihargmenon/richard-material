@@ -1,12 +1,10 @@
 ---
-title: "Basics Of HTML"
+title: "Basic HTML Document"
 ---
 
-# Understanding HTML
+# Understanding an HTML Document
 
-HTML stands for HyperText Markup Language. It is the standard markup language for creating web pages. HTML is used to define the structure, content, and functionality of a web page. Let's try to understand what the terms hypertext and markup language mean.
-
-Let's take this sample HTML file
+Let's take this sample HTML file to understand some basic HTML tags
 ```html
 <html>
 <head>
