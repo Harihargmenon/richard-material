@@ -1,5 +1,5 @@
 ---
-title: "Basics Of HTML"
+title: "Basics Of HTML Nesting"
 ---
 
 # Understanding Nesting in HTML
@@ -31,4 +31,28 @@ Eg List of Cricketers and their top 3 scores
   </li>
 </ul>
 ```
+This list looks something like :
+<ul>
+  <li>Virat Kohli
+    <ol>
+      <li>165</li>
+      <li>145</li>
+      <li>135</li>
+    </ol>
+  </li>
+  <li>Rohit Sharma
+    <ol>
+      <li>185</li>
+      <li>155</li>
+      <li>125</li>
+    </ol>
+  </li>
+  <li>Babar Azam
+    <ol>
+      <li>205</li>
+      <li>145</li>
+      <li>115</li>
+    </ol>
+  </li>
+</ul>
 In this case inner list becomes the child to the parent outer list.
