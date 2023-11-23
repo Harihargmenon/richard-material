@@ -8,13 +8,12 @@ title: "Basics Of HTML"
 ## Block Elements
 Block-level elements are HTML tags that create a new "block" or a rectangular section on a web page. These elements typically start on a new line and stretch across the full width of their container (like a paragraph of text or a section of the page).  
 Some examples of block elements are :
->
-> - Headings (<h1> through <h6>)
-> - Paragraphs (<p>)
-> - Divisions (<div>)
-> - Lists (<ul> and <ol>)
->  - Images (<img>)
-> - Tables (<table>)
+> - Headings (```html<h1> through <h6>```)
+> - Paragraphs (```html<p>```)
+> - Divisions (```html<div>```)
+> - Lists (```html<ul> and <ol>```)
+>  - Images (```html<img>```)
+> - Tables (```html<table>```)
 
 ## Inline Elements
 
