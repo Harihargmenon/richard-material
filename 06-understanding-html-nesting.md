@@ -1,5 +1,5 @@
 ---
-title: "Basics Of HTML Nesting"
+title: "Basics Of HTML"
 ---
 
 # Understanding Nesting in HTML
