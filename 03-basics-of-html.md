@@ -2,15 +2,13 @@
 title: "Basics Of HTML"
 ---
 
-# Understanding HTML Document
+# Understanding HTML Fullform
 
 HTML stands for HyperText Markup Language. It is the standard markup language for creating web pages. HTML is used to define the structure, content, and functionality of a web page. Let's try to understand what the terms hypertext and markup language mean.
 
 ## Hypertext
 
 When you compare a website and any other document, websites allow you to click on certain buttons or links which take you to other websites that give you more information. This feature is missing from a traditional physical document. The ability to jump from one document to another using links. This kind of document which contains a link is a Hypertext document. Hypertext refers to a word, phrase or chunk of text that can be linked to another document or text. In a hypertext document the text which acts as links to other documents are called hyperlinks. Shopping websites like Amazon or Ebooks are great examples of Hypertext documents that interlink websites using links. Hypertext links allow you to jump from one part of a document to another, or even to another document altogether. This makes it easy to explore a topic in depth without having to flip back and forth through the entire document
-
-
 
 
 ## Markup Language
