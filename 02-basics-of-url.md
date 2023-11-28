@@ -1,5 +1,5 @@
 ---
-title: "Basics Of URLs"
+title: "Basics Of Web"
 ---
 
 # Understanding URLs
