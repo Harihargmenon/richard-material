@@ -1,5 +1,5 @@
 ---
-title: "Basics Of HTML Attributes"
+title: "Basics Of HTML"
 ---
 
 # Understanding Attributes in HTML
