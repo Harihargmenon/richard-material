@@ -1,5 +1,5 @@
 ---
-title: "Websites and Web Browsers"
+title: "Basics Of Web"
 ---
 
 # Understanding Websites and Web Browsers
