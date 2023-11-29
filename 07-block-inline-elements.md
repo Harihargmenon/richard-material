@@ -1,5 +1,5 @@
 ---
-title: "Basics Of Element Layouts"
+title: "Basics Of HTML"
 ---
 
 # Block-Inline Elements
