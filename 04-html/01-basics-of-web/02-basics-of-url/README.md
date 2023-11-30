@@ -17,5 +17,3 @@ URLs are usually made up of the following parts:
 - The domain name is the address of the website where the webpage is hosted. In the example above, the domain name is "www.google.com”. We have to understand here the actual address of each website would be a complicated number, the string "www.google.com" is for us to remember the website name easily. In the background, it is mapped to some numerical value.
 - The path is the location of the webpage on the website. In the example above, the path is "/search", which tells us that we have to go to the search page
 - In the query, we will pass extra details corresponding to the path for the page to take suitable actions. In the above example, q=programming loads the webpage corresponding to the Google search of the word "programming".
-
-
